@@ -1,0 +1,106 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[a4paper,margin=0.5in]{geometry} % Reduced margin to 0.5in
+\usepackage{parskip}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{xcolor} 
+\usepackage[hidelinks]{hyperref}
+\usepackage{fontawesome5}
+\usepackage{setspace}
+\usepackage{multicol} % For two-column layout
+\usepackage{array} % For better column alignment
+\usepackage{calc} % For length calculations
+
+% Define colors
+\definecolor{primary}{HTML}{0F52BA}
+
+% Section formatting
+\titleformat{\section}{\Large\bfseries\color{primary}}{}{0em}{}
+
+% Custom column separation
+\setlength{\columnseprule}{0.4pt} % Vertical line thickness
+\setlength{\columnsep}{10pt} % Further reduced space between columns
+
+\begin{document}
+
+\pagestyle{empty}
+
+% Two-column layout with adjusted widths
+\begin{multicols}{2}
+    \setlength{\columnsep}{10pt} % Ensure columnsep is set inside multicols
+    \raggedcolumns % Prevent column height balancing
+    \columnratio{0.55 0.45} % Adjust column widths: 55% left, 45% right
+
+    % Left column (Name, Contact, About Me, Experience)
+    \noindent
+    {\LARGE \textbf{Ang Jianming}} \\[2pt]
+    Kuala Lumpur, Malaysia \hfill
+    \href{mailto:angjianming2005@hotmail.com}{angjianming2005@hotmail.com} $\vert$
+    \href{https://angjianming.vercel.app/}{angjianming.vercel.app} $\vert$
+    \href{https://linkedin.com/in/angjianming}{linkedin.com/in/angjianming} $\vert$
+    \href{https://github.com/AngJianming}{github.com/AngJianming} $\vert$
+    \href{https://twitter.com/AngJianming}{@AngJianming} \\[2pt]
+
+    \textbf{About Me} \\
+    Passionate Software Engineer with 3+ years in full-stack development, specializing in Web3, AI/ML, and cloud tech. Graduated with a Diploma in ICT (Software Engineering) from Asia Pacific University (June 2025). Eager to innovate and collaborate. \\[2pt]
+
+    \textbf{Professional Experience} \\
+    \textbf{Software Engineer} \textit{[Company Name]}, Kuala Lumpur \hfill Jan 2025 -- Present \\
+    \begin{itemize}[leftmargin=*,nosep]
+        \item Built scalable web apps (React, Node.js).
+        \item Delivered features via Agile teams.
+        \item Optimized with AWS/Google Cloud.
+    \end{itemize}
+
+    \textbf{Freelance Full-Stack Developer} \textit{Self-employed}, Remote \hfill Jun 2022 -- Dec 2024 \\
+    \begin{itemize}[leftmargin=*,nosep]
+        \item Deployed apps for startups (React, Flask).
+        \item Created reusable components.
+        \item Explored Web3/AI tech.
+    \end{itemize}
+
+    \textbf{Educational Background} \\
+    \textbf{Asia Pacific University \\ Diploma in ICT (Software Engineering)} \\
+    Kuala Lumpur, Malaysia \hfill Graduated: June 2025 \\
+    \begin{itemize}[leftmargin=*,nosep]
+        \item GPA: 3.8/4.0, Dean’s List.
+        \item Courses: Data Structures, Cloud Computing.
+    \end{itemize}\\[2pt]
+
+    % Right column (Technology Stack, Languages, Extracurricular, Misc, Projects)
+    \columnbreak
+    \noindent
+    \textbf{Technology Stack} \\
+    Web: ASP.NET, Express + React \\
+    Desktop: WPF \\
+    Native: Xamarin \\
+    DBMS: MS SQL, MongoDB \\
+    Ops: PowerShell, Python \\
+    Hosting: Azure, GitHub Actions \\[2pt]
+
+    \textbf{Languages} \\
+    Fluent: English, German \\
+    Proficient: Mandarin \\
+    Basic: Japanese \\[2pt]
+
+    \textbf{Extracurricular Activities} \\
+    Culture: Traveling, photography \\
+    Sport: Hiking, bodybuilding \\
+    Volunteering: Tech workshops (2024) \\[2pt]
+
+    \textbf{Misc} \\
+    Hobbies: Coding, tech blogs, sci-fi novels \\
+    Certifications: AWS Dev (2025), Google Cloud (2024), Cisco CCNA (2023) \\
+    Availability: Relocatable, remote-ready \\
+    Achievements: Hackathon winner (2024), Open Source Contributor (2023-2025) \\
+    Fun Fact: Built a personal robot prototype in 2024 \\
+    Interests: Robotics, virtual reality, sustainable tech \\[2pt]
+
+    \textbf{Selected Projects} \\
+    \textbf{Portfolio Website} -- \href{https://angjianming.vercel.app}{angjianming.vercel.app} (Next.js, Jun 2025) \\
+    \textbf{Web3 Property} (Solidity, React, Mar 2025) \\
+    \textbf{AI Quiz Game} (AI-integrated, Jun 2025) \\
+    \textbf{E-commerce API} (Node.js, MongoDB, Dec 2024) \\
+\end{multicols}
+
+\end{document}
