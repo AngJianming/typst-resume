@@ -15,22 +15,22 @@
   let icon = icon.with(shift: 2.5pt)
 
   services.map(service => {
-      icon(service.name)
+      if service.name != "none" {
+        icon(service.name)
+      }
 
       if "display" in service.keys() {
-        link(service.link)[#{service.display}]
+        styled-link(service.link)[#{service.display}]
       } else {
         link(service.link)
       }
     }).join(h(10pt))
-  [
-    
-  ]
 }
 
 #let term(period, location) = {
   text(9pt)[#icon("calendar") #period #h(1fr) #icon("location") #location]
 }
+
 
 #let max_rating = 5
 #let skill(name, rating) = {
