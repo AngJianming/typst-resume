@@ -41,7 +41,7 @@
     #section("Professional Experience")
 
     --- *Software Engineer* at [Credit APU], Onsite -
-    Kuala Lumpur 
+    Bukit Jalil, Kuala Lumpur 
     (Sep 2024 -- Present) *(Part-time)*
       - AI Lead & Lead Web Developer.
       - Built scalable IoT Dashboard for engineers to view, store and show data to users through a leg exo-skeleton device called Lexo.
@@ -50,8 +50,8 @@
     
     #parbreak()
     
-    --- *Deveveloper Relations and Committee member* at [APUHackthletes], Hybrid -
-    Kuala Lumpur 
+--- *Deveveloper Relations and Committee member trainee* at [APUHackthletes], Hybrid -
+    Bukit Jalil, Kuala Lumpur 
     (May 2025 -- Present) *(Part-time)*
       - Host workshops and events for students new to hackathons.
       - Collaborate with other tech communities and universities such as Google Developer Group (GDG) Kuala Lumpur, APU Blockchain Club (APUBCC), TARUMT Blockchain Club (TARUMTBCC), Solana SuperteamMY and more.
@@ -59,7 +59,7 @@
     
     #parbreak()
 
-    --- *MERN Stack Developer* at [Vexial.org], 
+--- *MERN Stack Developer* at [Vexial.org], 
     Remote - Kuala Lumpur 
     (Oct 2024 -- May 2025) *(Freelance)*  
       - Build 3 solo projects and actively help others with their projects for clients so that I earn commission.
@@ -68,25 +68,25 @@
 
     #parbreak()  
 
-    --- *Retail Sales Agent* at [Thunder Match Technologies (TMT)], Onsite - Mid Valley City Megamall, KL, Lot S-049 & 050, 2nd Floor
+--- *Retail Sales Agent* at [Thunder Match Technologies (TMT)], Onsite - Mid Valley City Megamall, KL, Lot S-049 & 050, 2nd Floor
     (Mar 2023 - Jul 2023) *(Full-time)*
       - Communicate effectively in languages English, Mandarin, Cantonese, and Malay.
       - Increased store sales by 20% compared to past months, top sales agent for April and May.
       - Developed strong customer service skills, fostering 23 loyal client base and customers satisfaction.
     
     #parbreak()
-
+    
     #section("Volunteering")
     
-- *Great Game Week Volunteering* staff help provide assistants in preparing booths, set up PCs, and Deco.
+    - *Great Game Week Volunteering* staff help provide assistants in preparing booths, set up PCs, and Deco.
 
-- *Manage Registration Team* in [CryptoBilis] to facilitate smooth event operations.
+    - *Manage Registration Team* in [CryptoBilis] to facilitate smooth event operations.
 
 // - *Cyfrin* [Foundry Series] taught students how to use Foundry to develop smart contracts.
 
-- *Workshop* to educate participants about upcoming ETHUprising Hackahthon.
+    - *Workshop* to educate participants about upcoming ETHUprising Hackahthon.
 
-- *Main booth fundraiser* for Bunga-bunga Syurga Down Syndrome Malaysia.
+    - *Main booth fundraiser* for Bunga-bunga Syurga Down Syndrome Malaysia.
 
     #parbreak()
 
@@ -98,16 +98,26 @@
 
     #section("Tech Stack")
     - *Basic:* HTML · CSS · Bash · GitHub · Notion · SQL
+
     - *Lang:* Python · PHP · JS/TS · Java(less) · Golang · Dart
-    - *Web:* Express.js · React.js · Next.js · Vue.js · TailwindCSS · Node.js
+
+    - *Web:* Express.js · React.js · Next.js · TailwindCSS · Node.js
+    
     - *Framework:* TensorFlow · Lavarel · Gin · Angular
+    
     - *AI/ML:* Hugging Face · N8N · Langchain //· Model Concept Protocol (MCP)
+    
     - *OS:* WSL Ubuntu · Windows · VMware Kali Linux
+    
     - *Mobile:* React Native · Expo · Flutter · Kotlin(less)
+    
     - *DBMS:* MySQL · MongoDB · Firebase · PostgreSQL
+    
     - *DevOps:* Git · Jenkins(less) · Docker
+    
     - *Hosting:* GitHub Actions · Vercel
-    - *Web3:* Foundry · Hardhat · Anchor · Rust · Solidity · Movelang
+    
+    - *Web3:* Foundry · Hardhat · Anchor · Rust · Solidity · Move
     
     #parbreak()
 
@@ -134,7 +144,7 @@
   
     #parbreak()
   
-    #section("Wins")
+    #section("Wins and Awards")
     - Web 3 Entrepreneurship 101 Bootcamp Mini Hack DeFi Track 2nd Runner Up
 
     #parbreak()
