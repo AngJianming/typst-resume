@@ -129,19 +129,21 @@
     #parbreak()
 
     #section("Selected Projects")
-    - #link("https://www.credly.com/badges/068a28f1-6703-4156-8592-bca4aed6a512")[to be added with link (tech-stack, date)]  
-    - #link("https://www.credly.com/badges/068a28f1-6703-4156-8592-bca4aed6a512")[to be added with link (tech-stack, date)]  
-    - #link("https://www.credly.com/badges/068a28f1-6703-4156-8592-bca4aed6a512")[to be added with link (tech-stack, date)]  
-    - #link("https://www.credly.com/badges/068a28f1-6703-4156-8592-bca4aed6a512")[to be added with link (tech-stack, date)]  
+    // - #link("https://www.credly.com/badges/068a28f1-6703-4156-8592-bca4aed6a512")[to be added with link (tech-stack, date)]  
+    - #link("https://www.credly.com/badges/068a28f1-6703-4156-8592-bca4aed6a512")[EVM-chat-agent (Next.js, TS, React Hooks, OpenAI) - *Mar 2025*]
+    - #link("https://www.credly.com/badges/068a28f1-6703-4156-8592-bca4aed6a512")[YOLO-algo-AI-facial-recognition-attendence-tracking (Jupyter Notebook, Python, YOLO algorithm) - *Mar 2025*]
+    - #link("https://www.credly.com/badges/068a28f1-6703-4156-8592-bca4aed6a512")[GODAMLah-Hackathon (Flask, Supabase, Python, React.js) - *Dec 2024*]
   
     #parbreak()
 
     #section("Certifications")
-    - #link("https://www.credly.com/badges/068a28f1-6703-4156-8592-bca4aed6a512")[Advanced Schema Design Patterns and Antipatterns]
-    - #link("https://www.credly.com/badges/068a28f1-6703-4156-8592-bca4aed6a512")[Advanced Schema Design Patterns and Antipatterns]
-    - #link("https://www.credly.com/badges/068a28f1-6703-4156-8592-bca4aed6a512")[Advanced Schema Design Patterns and Antipatterns]
-    - #link("https://www.credly.com/badges/068a28f1-6703-4156-8592-bca4aed6a512")[Advanced Schema Design Patterns and Antipatterns]
-  
+    - #link("https://tinyurl.com/2r67pk2y")[GDSC Certified: Google Workspace Hackathon 2024]
+    - #link("https://learn.microsoft.com/api/achievements/share/en-us/AngJianming/J95CNBHT?sharingId=BEF8C527E50858E7")[Microsoft Fundamentals of Azure OpenAI Service]
+    - #link("https://api.badgr.io/public/assertions/X0nuRQpKTRqVtCzt5NCvyw?identity__email=angjianming2005%40hotmail.com")[Postman Library API v2]
+    - #link("https://www.credly.com/badges/068a28f1-6703-4156-8592-bca4aed6a512")[Hugging Face AI Agents Fundamentals]
+    // - #link("https://www.credly.com/badges/068a28f1-6703-4156-8592-bca4aed6a512")[MongoDB Advanced Schema Design Patterns and Antipatterns]
+    - #link("https://learn.mongodb.com/c/ypngqKoDRvyhPEaSJT1x4A")[MongoDB Building RAG Apps Using MongoDB]
+    
     #parbreak()
   
     #section("Wins and Awards")
