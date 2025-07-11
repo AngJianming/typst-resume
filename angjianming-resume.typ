@@ -130,9 +130,9 @@
 
     #section("Selected Projects")
     // - #link("https://www.credly.com/badges/068a28f1-6703-4156-8592-bca4aed6a512")[to be added with link (tech-stack, date)]  
-    - #link("https://www.credly.com/badges/068a28f1-6703-4156-8592-bca4aed6a512")[EVM-chat-agent (Next.js, TypeScript, React Hooks, OpenAI) - *Mar 2025*]
-    - #link("https://www.credly.com/badges/068a28f1-6703-4156-8592-bca4aed6a512")[YOLO-algo-AI-facial-recognition-attendence-tracking (Jupyter Notebook, Python, YOLO algorithm) - *Mar 2025*]
-    - #link("https://www.credly.com/badges/068a28f1-6703-4156-8592-bca4aed6a512")[GODAMLah-Hackathon (Flask, Supabase, Python, React.js) - *Dec 2024*]
+    - #link("https://www.credly.com/badges/068a28f1-6703-4156-8592-bca4aed6a512")[*EVM-chat-agent (Next.js, TypeScript, React Hooks, Deepseek API) - *Mar 2025]
+    - #link("https://www.credly.com/badges/068a28f1-6703-4156-8592-bca4aed6a512")[*YOLO-algo-AI-facial-recognition-attendence-tracking (Jupyter Notebook, Python, YOLO algorithm, TailwindCSS) - *Mar 2025]
+    - #link("https://www.credly.com/badges/068a28f1-6703-4156-8592-bca4aed6a512")[*GODAMLah-Hackathon (Flask, Supabase, Python, React.js) - *Dec 2024]
   
     #parbreak()
 
