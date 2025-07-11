@@ -77,10 +77,25 @@
 }
 
 
-#let styled-link(dest, content) = emph(text(
-    fill: link_colour,
-    link(dest, content)
-  ))
+#let styled-link(dest, content) = {
+  // Check if the destination is a PDF file
+  let is_pdf = dest.ends-with(".pdf")
+  
+  // If it's a PDF, wrap the link with HTML/CSS for hover effect
+  if is_pdf {
+    // Use raw HTML with inline CSS for web-based rendering
+    raw(
+      lang: "html",
+      "<a href=\"" + dest + "\" style=\"color: " + link_colour.to-hex() + "; text-decoration: none;\" onmouseover=\"this.style.color='#FF0000';\" onmouseout=\"this.style.color='" + link_colour.to-hex() + "';\">" + content.text + "</a>"
+    )
+  } else {
+    // Non-PDF links remain as standard styled links
+    emph(text(
+      fill: link_colour,
+      link(dest, content)
+    ))
+  }
+}
 
 #let angj(
   name: "",
