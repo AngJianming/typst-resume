@@ -26,7 +26,7 @@
     
     #parbreak()
 
-    #section("About Me")
+    #section("About Me  (Click the words in the Socials to link)")
     Discipline Software Engineer with 3+ years in full-stack dev, specialising in AI/ML, Mobile, Web3 and Cloud tech. Have built multiple projects for clients, hackathons, ideations, and even IoT companies. Fun fact: GitHub might be my strongest asset as of today. Always enjoy updating myself on the latest tech news and will constantly learn and adapt to change. I also actively compete in CTFs, Game Jams, and Hackathons.
     #parbreak()
 
