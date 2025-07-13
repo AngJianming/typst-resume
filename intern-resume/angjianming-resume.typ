@@ -1,7 +1,6 @@
-#import "angjianming.typ": findMe
 #set page(margin: 0.5in)
 #set par(justify: true)
-#set text(font: "Times New Roman", size: 10pt)
+#set text(font: "New Computer Modern", size: 10pt)
 #let primary = rgb("#0F52BA")
 
 // Header styling

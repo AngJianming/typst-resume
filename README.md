@@ -57,7 +57,9 @@ typst-resume/
 ```bash
 typst compile angjianming-resume.typ
 ```
-or
+If there is a <span style="color: red;">error</span> #import or "Times New Roman" remove them or //comment on them first before trying again, after done so just re-add them back.
+
+<br>
 
 ```bash
 typst compile learn-typst/test.typ
