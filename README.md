@@ -3,22 +3,37 @@ Welcome! This is my personal learning repository for both Typst and LaTeX, inclu
 
 ```plaintext
 typst-resume/
-├── angjianming.typ                # 📄 Typst resume source file
-├── angjianming.pdf                # ✅ Compiled resume from Typst
-├── angjianming-resume.typ         # 📝 Alternate Typst resume format
-├── angjianming-resume.pdf         # 📄 PDF version of the alternate resume
+├── icons/                         # 🌐 Social and contact icons
+│   ├── email.png                  # 📧 Email icon
+│   ├── github.svg                 # 🐙 GitHub icon
+│   ├── linkedin.svg               # 💼 LinkedIn icon
+│   ├── website.png                # 🌍 Personal website icon
+│   └── x.svg                      #  𝕏 / Twitter social media icon
+│
+├── intern-resume/                 # 📄 Internship-specific resume
+│   ├── angjianming-resume.pdf     # 📄 Compiled internship resume
+│   └── angjianming-resume.typ     # ✍️  Typst source for internship resume
 │
 ├── learn-latex/                   # 📚 LaTeX practice and example files
-│   ├── test.tex                   # 📜 Main LaTeX file
+│   ├── test.aux                   # 🛠 Build auxiliary file
+│   ├── test.fdb_latexmk           # ⚙️  Latexmk build state
+│   ├── test.fls                   # 📦 List of used files
+│   ├── test.log                   # 📋 Compilation log
 │   ├── test.pdf                   # 📄 Output PDF
-│   ├── test.aux, .log, .fls...    # 🛠 Build/compile logs and temp files
+│   └── test.tex                   # 📜 Main LaTeX file
 │
-└── learn-typst/                   # 📘 Typst learning and experiments
-    ├── test.typ                   # 🧪 Typst practice file
-    ├── test.pdf                   # 📄 Output PDF
-    ├── glacier.png                # 🖼 Image used in test.typ
-    ├── logo.svg                   # 🖼 SVG logo used in layout
-    └── works.bib                  # 🔖 Bibliography file for citation
+├── learn-typst/                   # 📘 Typst learning and experiments
+│   ├── glacier.png                # 🖼 Image used in test.typ
+│   ├── logo.svg                   # 🖼 SVG logo used in layout
+│   ├── test.pdf                   # 📄 Output PDF
+│   ├── test.typ                   # 🧪 Typst practice file
+│   └── works.bib                  # 🔖 Bibliography file for citation
+│
+├── README.md                      # 📘 Project documentation
+├── angjianming-resume.pdf         # 📄 PDF version of the alternate resume
+├── angjianming-resume.typ         # 📝 Alternate Typst resume format
+├── angjianming.pdf                # ✅ Compiled resume from Typst
+└── angjianming.typ                # 📄 Typst resume source file
 
 ```
 
