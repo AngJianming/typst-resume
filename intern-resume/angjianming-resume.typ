@@ -15,7 +15,7 @@
 #columns(
   2,
   [
-    #text(size: 16pt, weight: "bold")[Ang Jianming] ------ AI/ML Software Engineer
+    #text(size: 16pt, weight: "bold")[Ang Jianming] ------ Internship Software Engineer
     #parbreak()
     #link("https://www.google.com/maps/place/Kuala+Lumpur,+Malaysia", "Kuala Lumpur, Malaysia") |
     #link("mailto:angjianming2005@hotmail.com", "angjianming2005@hotmail.com") |
