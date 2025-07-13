@@ -53,7 +53,7 @@
 --- *Deveveloper Relations and Committee member trainee* at [APUHackthletes], Hybrid -
     Bukit Jalil, Kuala Lumpur 
     (May 2025 -- Present) *(Part-time)*
-      - Host workshops and events for students new to hackathons.
+      - Host technical workshops and events for 200+ students.
       - Collaborate with other tech communities and universities such as Google Developer Group (GDG) Kuala Lumpur, APU Blockchain Club (APUBCC), TARUMT Blockchain Club (TARUMTBCC), Solana SuperteamMY and more.
       - Monthly sync-ups and meetings for new hackathons.
     
@@ -91,9 +91,9 @@
     #parbreak()
 
     #section("Miscellaneous")
-    - Availability: Onsite-ready, No-remote. //Relocatable, remote-ready, onsite-ready.
+    - Availability: Onsite-ready, Remote-ready, Relocatable. //Relocatable, remote-ready, onsite-ready.
     - Interests: AI/ML, backend, tech community meetups.
-    - Weido Facts: I don't drink coffee because it gives me a heart attack.
+    - Weido Facts: I no drink coffee cause it gives me heart attack.
     #parbreak()
 
     #section("Tech Stack")
