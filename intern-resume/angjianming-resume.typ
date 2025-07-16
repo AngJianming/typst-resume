@@ -1,4 +1,4 @@
-#import "angjianming.typ": findMe
+// #import "angjianming.typ": findMe
 #set page(margin: 0.5in)
 #set par(justify: true)
 #set text(font: "Times New Roman", size: 10pt)
@@ -19,15 +19,15 @@
     #parbreak()
     #link("https://www.google.com/maps/place/Kuala+Lumpur,+Malaysia", "Kuala Lumpur, Malaysia") |
     #link("mailto:angjianming2005@hotmail.com", "angjianming2005@hotmail.com") |
-    #link("https://angjianming.vercel.app")[[🌐] Website Portfolio] | 
-    #link("https://linkedin.com/in/angjianming")[[In] LinkedIn] | 
-    #link("https://github.com/AngJianming")[[</>] GitHub] | 
-    #link("https://x.com/AngJianming", "[𝕏] x.com ")
+    #link("https://angjianming.vercel.app")[[🌐] angjianming.com] | 
+    #link("https://linkedin.com/in/angjianming")[[In] My linkedin.com/in/angjianming] | 
+    #link("https://github.com/AngJianming")[[</>] https://github.com/AngJianming] | 
+    #link("https://x.com/AngJianming", "[𝕏] @AngJianming ") |
     
     #parbreak()
 
-    #section("About Me  (Click the words in the Socials to link)")
-    Discipline Software Engineer with 3+ years in full-stack dev, specialising in AI/ML, Mobile, Web3 and Cloud tech. Have built multiple projects for clients, hackathons, ideations, and even IoT companies. Fun fact: GitHub might be my strongest asset as of today. Always enjoy updating myself on the latest tech news and will constantly learn and adapt to change. I also actively compete in CTFs, Game Jams, and Hackathons.
+    #section("About Me  (Click the links above to get to my Socials)")
+    Passionate Software Engineer in full-stack dev, specialising in AI/ML, Mobile, Web3 and Cloud tech. Have built multiple projects for clients, hackathons, ideations, and even IoT companies. Always enjoy updating myself on the latest tech news and will constantly learn and adapt to change. I also actively compete in CTFs, Game Jams, and Hackathons.
     #parbreak()
 
     #section("Educational Background")
@@ -93,7 +93,6 @@
     #section("Miscellaneous")
     - Availability: Onsite-ready, Remote-ready, Relocatable. //Relocatable, remote-ready, onsite-ready.
     - Interests: AI/ML, backend, tech community meetups.
-    - Weido Facts: I no drink coffee cause it gives me heart attack.
     #parbreak()
 
     #section("Tech Stack")
