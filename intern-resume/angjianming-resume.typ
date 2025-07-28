@@ -35,7 +35,7 @@
     - *Asia Pacific University, ICT (Software 
     Engineering)*  
       Bukit Jalil, Kuala Lumpur, Malaysia
-      - GPA: 3.4/4.0
+      - CGPA: 3.93/4.0
     #parbreak()
 
     #section("Professional Experience")
