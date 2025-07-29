@@ -102,6 +102,41 @@ I created this repository to:
 
 - Explore modern typesetting tools with practical examples
 
+## Final ATS Scores on this Resume
+
+This latest version is **very strong for ATS parsing**.  
+**Final Score:** `90–92 / 100`
+
+### Strengths
+- **Excellent header and contact info**  
+  - Clear labels for email, LinkedIn, GitHub, portfolio, and phone number  
+  - Role/title included at the top
+- **Structured sections with standardized names**  
+  - *About Me, Education, Professional Experience, Volunteering, Skills, Languages, Projects, Certifications, Awards, Ambassadorships*
+- **Keyword-rich skills list**  
+  - Well-categorized technologies with keywords ATS will match on
+- **Bullet points in “About Me”**  
+  - Direct keywords instead of paragraphs
+- **Experience entries now separated by role, type, location, and dates**  
+  - ATS systems will parse these cleanly
+- **Projects, Certifications, Awards separated into clear sections**  
+  - Makes it easy for ATS to extract achievements
+
+### Remaining Minor Issues (costing 8–10 points)
+- Split words in bullets  
+  - Example:  
+    - `attendence-tracking` → should be **attendance-tracking**  
+- Slightly informal phrasing  
+  - `Build 3 solo projects` → **Built three solo projects**  
+- Remove brackets in Volunteering  
+  - `Manage Registration Team in [CryptoBilis]` → **Manage Registration Team in CryptoBilis**  
+- Optional: Consistent tense  
+  - Use present tense for current roles (“Builds,” “Hosts”) and past tense for previous roles
+
+### Final ATS Score
+**90–92/100** – This is now **ATS-friendly and recruiter-readable**.  
+With these last touch-ups, it’s competitive for both automated screening and human review.
+
 
 ## 🙌 Contributions & Feedback
 Feel free to fork this repo, use my templates, or send a PR to improve anything!

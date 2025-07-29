@@ -17,17 +17,34 @@
   [
     #text(size: 16pt, weight: "bold")[Ang Jianming] ------ AI/ML Software Engineer
     #parbreak()
-    #link("https://www.google.com/maps/place/Kuala+Lumpur,+Malaysia", "Kuala Lumpur, Malaysia") |
-    #link("mailto:angjianming2005@hotmail.com", "angjianming2005@hotmail.com") |
-    #link("https://angjianming.vercel.app")[[🌐] Website Portfolio] | 
-    #link("https://linkedin.com/in/angjianming")[[In] LinkedIn] | 
-    #link("https://github.com/AngJianming")[[</>] GitHub] | 
-    #link("https://x.com/AngJianming", "[𝕏] x.com ")
+    #link("https://www.google.com/maps/place/Kuala+Lumpur,+Malaysia", "Located at: Kuala Lumpur, Malaysia") |
+    #link("https://x.com/AngJianming", "X.com: @AngJianming") |
+    #linebreak()
+    #link("mailto:angjianming2005@hotmail.com", "Email: angjianming2005@hotmail.com") |
+    #linebreak()
+    #link("https://angjianming.vercel.app")[Personal website: https://angjianming.vercel.app] | 
+    #linebreak()
+    #link("https://linkedin.com/in/angjianming")[LinkedIn: https://linkedin.com/in/angjianming] | 
+    #linebreak()
+    #link("https://github.com/AngJianming")[GitHub: https://github.com/AngJianming] | 
+    #linebreak()
+    #link("https://github.com/AngJianming")[Phone no: +60 17 253-8620] | 
+    // #link("https://www.google.com/maps/place/Kuala+Lumpur,+Malaysia", "Kuala Lumpur, Malaysia") |
+    // #link("mailto:angjianming2005@hotmail.com", "angjianming2005@hotmail.com") |
+    // #link("https://angjianming.vercel.app")[[🌐] angjianming.com] | 
+    // #link("https://linkedin.com/in/angjianming")[[In] My linkedin.com/in/angjianming] | 
+    // #link("https://github.com/AngJianming")[[</>] https://github.com/AngJianming] | 
+    // #link("https://x.com/AngJianming", "[𝕏] @AngJianming ") |
     
     #parbreak()
 
-    #section("About Me  (Click the words in the Socials to link)")
-    Discipline Software Engineer with 3+ years in full-stack dev, specialising in AI/ML, Mobile, Web3 and Cloud tech. Have built multiple projects for clients, hackathons, ideations, and even IoT companies. Fun fact: GitHub might be my strongest asset as of today. Always enjoy updating myself on the latest tech news and will constantly learn and adapt to change. I also actively compete in CTFs, Game Jams, and Hackathons.
+    #section("About Me")
+    - Full‑Stack Engineer (React.js, Node.js, Next.js, Express.js)
+
+    - AI/ML Enthusiast (TensorFlow, LangChain, Python, C++)
+
+    - IoT Developer (Raspberry Pi, Arduino ESP32)
+
     #parbreak()
 
     #section("Educational Background")
@@ -40,36 +57,46 @@
 
     #section("Professional Experience")
 
-    --- *Software Engineer* at [Credit APU], Onsite -
-    Bukit Jalil, Kuala Lumpur 
-    (Sep 2024 -- Present) *(Part-time)*
+    --- *Software Engineer* at Credit APU, 
+    #linebreak() 
+    Onsite | Bukit Jalil, Kuala Lumpur |
+    (Sep 2024 -- Present) 
+    #linebreak() 
+    *Part-time*
       - AI Lead & Lead Web Developer.
       - Built scalable IoT Dashboard for engineers to view, store and show data to users through a leg exo-skeleton device called Lexo.
-      - Successfully integrated Raspberry Pi and ESP32 with MongoDB to store data and connected to the frontend (React.js).
+      - Successfully integrated Raspberry Pi, ESP32 with MongoDB to store data and connected to the frontend (React.js).
       - Leverage AI Agent's knowledge base to view statistical explanations on hardware data analytics with good programming practice for new developers to continue.
     
     #parbreak()
     
---- *Deveveloper Relations and Committee member trainee* at [APUHackthletes], Hybrid -
-    Bukit Jalil, Kuala Lumpur 
-    (May 2025 -- Present) *(Part-time)*
+--- *Deveveloper Relations and Committee member trainee* at APUHackthletes, 
+    #linebreak()
+    Hybrid | Bukit Jalil, Kuala Lumpur | (May 2025 -- Present) 
+    #linebreak()
+    *Part-time*
       - Host technical workshops and events for 200+ students.
       - Collaborate with other tech communities and universities such as Google Developer Group (GDG) Kuala Lumpur, APU Blockchain Club (APUBCC), TARUMT Blockchain Club (TARUMTBCC), Solana SuperteamMY and more.
       - Monthly sync-ups and meetings for new hackathons.
     
     #parbreak()
 
---- *MERN Stack Developer* at [Vexial.org], 
-    Remote - Kuala Lumpur 
-    (Oct 2024 -- May 2025) *(Freelance)*  
+--- *MERN Stack Developer* at Vexial.org,
+    #linebreak()
+    Remote | Kuala Lumpur | (Oct 2024 -- May 2025) 
+    #linebreak()
+    *Freelance*  
       - Build 3 solo projects and actively help others with their projects for clients so that I earn commission.
       - Learnt React Native for mobile app development within 1 week for a client and was able to deliver.
       - Communicate and use AI transcript summariser to give details at a quick pace to the manager before proceeding with the project evaluation.
 
     #parbreak()  
 
---- *Retail Sales Agent* at [Thunder Match Technologies (TMT)], Onsite - Mid Valley City Megamall, KL, Lot S-049 & 050, 2nd Floor
-    (Mar 2023 - Jul 2023) *(Full-time)*
+--- *Retail Sales Agent* at Thunder Match Technologies (TMT), 
+    #linebreak()
+    Onsite | Mid Valley City Megamall, KL, Lot S-049 & 050, 2nd Floor | (Mar 2023 - Jul 2023) 
+    #linebreak()
+    *Full-time*
       - Communicate effectively in languages English, Mandarin, Cantonese, and Malay.
       - Increased store sales by 20% compared to past months, top sales agent for April and May.
       - Developed strong customer service skills, fostering 23 loyal client base and customers satisfaction.
@@ -90,13 +117,7 @@
 
     #parbreak()
 
-    #section("Miscellaneous")
-    - Availability: Onsite-ready, Remote-ready, Relocatable. //Relocatable, remote-ready, onsite-ready.
-    - Interests: AI/ML, backend, tech community meetups.
-    - Weido Facts: I no drink coffee cause it gives me heart attack.
-    #parbreak()
-
-    #section("Tech Stack")
+    #section("Skills")
     - *Basic:* HTML · CSS · Bash · GitHub · Notion · SQL
 
     - *Lang:* Python · PHP · JS/TS · Java(less) · Golang · Dart
@@ -128,7 +149,7 @@
 
     #parbreak()
 
-    #section("Selected Projects")
+    #section("Projects")
     // - #link("https://www.credly.com/badges/068a28f1-6703-4156-8592-bca4aed6a512")[to be added with link (tech-stack, date)]  
     - #link("https://www.credly.com/badges/068a28f1-6703-4156-8592-bca4aed6a512")[*EVM-chat-agent (Next.js, TypeScript, React Hooks, Deepseek API) - *Mar 2025]
     - #link("https://www.credly.com/badges/068a28f1-6703-4156-8592-bca4aed6a512")[*YOLO-algo-AI-facial-recognition-attendence-tracking (Jupyter Notebook, Python, YOLO algorithm, TailwindCSS) - *Mar 2025]
@@ -147,7 +168,7 @@
     
     #parbreak()
   
-    #section("Wins and Awards")
+    #section("Awards")
     - Web 3 Entrepreneurship 101 Bootcamp Mini Hack DeFi Track 2nd Runner Up
 
     #parbreak()
