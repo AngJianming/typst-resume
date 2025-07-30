@@ -29,12 +29,20 @@ typst-resume/
 │   ├── test.typ                   # 🧪 Typst practice file
 │   └── works.bib                  # 🔖 Bibliography file for citation
 │
+├── old-resume/
+│   ├── angjianming-resume.pdf     # 📄 PDF version of the alternate resume
+│   ├── angjianming-resume.typ     # 📝 Alternate Typst resume format
+│   ├── angjianming.pdf            # ✅ Compiled resume from Typst
+│   └── angjianming.typ            # 📄 Typst resume source file
+│
+├── template/
+│   ├── README.md                  # 📘 Project documentation
+│   ├── template.pdf               # 📄 PDF version of the template resume
+│   ├── template.typ               # 📝 Typst template resume format
+│   
 ├── README.md                      # 📘 Project documentation
-├── angjianming-resume.pdf         # 📄 PDF version of the alternate resume
-├── angjianming-resume.typ         # 📝 Alternate Typst resume format
-├── angjianming.pdf                # ✅ Compiled resume from Typst
-└── angjianming.typ                # 📄 Typst resume source file
-
+├── resume.pdf                     # 📄 Main Compiled resume PDF
+├── resume.typ                     # ✍️ Main resume Typst source file
 ```
 
 
