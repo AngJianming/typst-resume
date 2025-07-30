@@ -162,6 +162,7 @@
 - *Databases:* MongoDB, Microsoft SQL Server, MySQL, PostgreSQL, Firebase  
 - *DevOps:* Docker, GitHub Actions, Jenkins  
 - *Cloud & Hosting:* Vercel, GitHub Pages, Terraform, Azure
+- *Data Analytics:* Tableau, Excel, Google Sheets, Google Data Studio
 - *Web3:* Solidity, Move, Rust, Foundry, Hardhat, Anchor  
 - *OS:* WSL Ubuntu, Windows, VMware Kali Linux
 - *Tools:* Notion, Bash, Shell, Git, GitHub, GitBucket, VScode, Cursor, v0, Jupyter Notebook, Hugging Face, N8N
