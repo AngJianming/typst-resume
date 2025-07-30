@@ -110,9 +110,9 @@ I created this repository to:
 
 - Explore modern typesetting tools with practical examples
 
-## Final ATS Scores on this Resume
+## Old Resume ATS Scores
 
-This latest version is **very strong for ATS parsing**.  
+This old-resume version is also **very strong for ATS parsing**.  
 **Final Score:** `90–92 / 100`
 
 ### Strengths
@@ -141,8 +141,8 @@ This latest version is **very strong for ATS parsing**.
 - Optional: Consistent tense  
   - Use present tense for current roles (“Builds,” “Hosts”) and past tense for previous roles
 
-### Final ATS Score
-**90–92/100** – This is now **ATS-friendly and recruiter-readable**.  
+## Final New Resume ATS Score
+**100/100** – This is now **ATS-friendly and recruiter-readable**.  
 With these last touch-ups, it’s competitive for both automated screening and human review.
 
 
