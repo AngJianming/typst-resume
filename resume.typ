@@ -37,7 +37,7 @@
 
 #work(
   title: "Software Engineer",
-  location: "Bukit Jalil, Kuala Lumpur",
+  location: "Bukit Jalil, Kuala Lumpur - Hybrid",
   company: "Credit APU",
   dates: dates-helper(start-date: "Sep 2024", end-date: "Present"),
 )
@@ -47,7 +47,7 @@
 
 #work(
   title: "Developer Relations",
-  location: "Hybrid",
+  location: "Bukit Jalil, Kuala Lumpur - Hybrid",
   company: "APUHackthletes",
   dates: dates-helper(start-date: "May 2025", end-date: "Present"),
 )
@@ -57,7 +57,7 @@
 
 #work(
   title: "MERN Stack Developer",
-  location: "Remote",
+  location: "Kuala Lumpur - Remote",
   company: "Vexial.org",
   dates: dates-helper(start-date: "Oct 2024", end-date: "May 2025"),
 )
@@ -67,7 +67,7 @@
 
 #work(
   title: "Retail Sales Agent",
-  location: "",
+  location: "Mid Valley City Megamall, Kuala Lumpur - Onsite",
   company: "Thunder Match Technologies (TMT)",
   dates: dates-helper(start-date: "Mar 2023", end-date: "Jul 2023"),
 )
