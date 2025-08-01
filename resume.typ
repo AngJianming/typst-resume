@@ -154,18 +154,17 @@
 
 == Skills
 
-- *Programming:* Python, JavaScript, TypeScript, C/C++, PHP, Dart, Golang, Java(less) 
-- *Frameworks:* TensorFlow, LangChain, Hugging Face, Django, Laravel, Angular
-- *Frontend:* React.js, Next.js, TailwindCSS  
-- *Backend:* Node.js, Express.js, Gin, Flask, FastAPI
-- *Mobile:* React Native, Flutter, Kotlin  
+- *Programming:* Python, JavaScript, TypeScript, C/C++, PHP, Dart, Golang, Java
+- *Web:* React.js, Next.js, TailwindCSS, Angular, Laravel Octane, Flask, FastAPI, Gin, Express.js (RESTful API, GraphQL), Node.js
+- *AI/ML:* TensorFlow, OpenCV, FastAPI, LangChain, Hugging Face, RAG, LLM, Deepseek-R-1, Gemini API, Vertex AI, Claude, Ollama, Databricks, MCP
+- *Mobile:* React Native (Expo), Flutter, Kotlin
 - *Databases:* MongoDB, Microsoft SQL Server, MySQL, PostgreSQL, Firebase  
-- *DevOps:* Docker, GitHub Actions, Jenkins  
+- *DevOps:* Docker, GitHub Actions, Jenkins
 - *Cloud & Hosting:* Vercel, GitHub Pages, Terraform, Azure
 - *Data Analytics:* Tableau, Excel, Google Sheets, Google Data Studio
-- *Web3:* Solidity, Move, Rust, Foundry, Hardhat, Anchor  
+- *Web3:* Solidity, Move, Rust, Foundry, Hardhat, Anchor
 - *OS:* WSL Ubuntu, Windows, VMware Kali Linux
-- *Tools:* Notion, Bash, Shell, Git, GitHub, GitBucket, VScode, Cursor, v0, Jupyter Notebook, Hugging Face, N8N
+- *Tools:* Notion, Bash, Shell, Git, GitHub, GitBucket, VScode, Cursor, v0, Jupyter Notebook, Warp
 - *Speaking Languages:* English, Mandarin, Malay, Cantonese
 
 == About me
