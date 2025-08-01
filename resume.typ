@@ -155,10 +155,10 @@
 == Skills
 
 - *Programming:* Python, JavaScript, TypeScript, C/C++, PHP, Dart, Golang, Java
-- *Web:* React.js, Next.js, TailwindCSS, Angular, Laravel Octane, Flask, FastAPI, Gin, Express.js (RESTful API, GraphQL), Node.js
+- *Web:* React.js, Next.js, TailwindCSS, Angular, Laravel Octane, Flask, FastAPI, Gin, Express.js (RESTful API, GraphQL), Node.js, Three.js
 - *AI/ML:* TensorFlow, OpenCV, FastAPI, LangChain, Hugging Face, RAG, LLM, Deepseek-R-1, Gemini API, Vertex AI, Claude, Ollama, Databricks, MCP
 - *Mobile:* React Native (Expo), Flutter, Kotlin
-- *Databases:* MongoDB, Microsoft SQL Server, MySQL, PostgreSQL, Firebase  
+- *Databases:* MongoDB, Microsoft SQL Server, MySQL, PostgreSQL, Firebase
 - *DevOps:* Docker, GitHub Actions, Jenkins
 - *Cloud & Hosting:* Vercel, GitHub Pages, Terraform, Azure
 - *Data Analytics:* Tableau, Excel, Google Sheets, Google Data Studio
