@@ -31,7 +31,7 @@
   dates: dates-helper(start-date: "July 2023", end-date: "July 2025"),
   degree: "Bachelor of ICT (Software Engineering)",
 )
-- *Courses:* Operating System, Computer Architecture, Database Management, Professional Communication, Artificial Intelligence, Python Programming, Data Struture and Algorithms C++, Algebra and Calculus, UI/UX Design, SDLC, Agile Scrum, System Analysis and Design, Responsive Web Design and Development, Object Oriented Programming Java, DevOps and Lowcode/Nocode Development, Networking Technologies, CyberSec and Forensics.
+- *Courses:* Operating System, Computer Architecture, Database Management, Professional Communication, Artificial Intelligence Workflows, Python Programming, Data Struture and Algorithms C++, Algebra and Calculus, UI/UX Design, SDLC, Agile Scrum, System Analysis and Design, Responsive Web Design and Development, Object Oriented Programming Java, DevOps and Lowcode/Nocode Development, Networking Technologies, CyberSec and Forensics.
 
 == Work Experience
 
@@ -154,15 +154,16 @@
 
 == Skills
 
-- *Programming:* Python, JavaScript, TypeScript, C/C++, PHP, Dart, Golang, Java
-- *Web:* React.js, Next.js, TailwindCSS, Angular, Laravel Octane, Flask, FastAPI, Gin, Express.js (RESTful API, GraphQL), Node.js, Three.js
-- *AI/ML:* TensorFlow, OpenCV, FastAPI, LangChain, Hugging Face, RAG, LLM, Deepseek-R-1, Gemini API, Vertex AI, Claude, Ollama, Databricks, MCP
+- *Programming:* Python, JavaScript, TypeScript, C/C++, PHP, Golang, Java
+- *Web:* React.js, Next.js, TailwindCSS, Angular, Laravel Octane, Flask, FastAPI, Express.js (RESTful API, GraphQL), Gin, Node.js, Three.js
+- *AI/ML:* TensorFlow.js, OpenCV, FastAPI, LangChain, Hugging Face, RAG, LLM, Deepseek-R-1, Gemini API, Vertex AI, Claude, Ollama, Databricks, MCP
 - *Mobile:* React Native (Expo), Flutter, Kotlin
 - *Databases:* MongoDB, Microsoft SQL Server, MySQL, PostgreSQL, Firebase
 - *DevOps:* Docker, GitHub Actions, Jenkins
 - *Cloud & Hosting:* Vercel, GitHub Pages, Terraform, Azure
-- *Data Analytics:* Tableau, Excel, Google Sheets, Google Data Studio
-- *Web3:* Solidity, Move, Rust, Foundry, Hardhat, Anchor
+- *Data Analytics:* Tableau, MS Excel, Google Sheets, Google Data Studio, Metabase
+- *Web3:* Solidity, Move, Rust, Foundry, Hardhat, Anchor, zkSync, zkRollup, zkLogin
+- *CryptoChain:* Ethereum, Solana, Sui, Scroll, The Graph
 - *OS:* WSL Ubuntu, Windows, VMware Kali Linux
 - *Tools:* Notion, Bash, Shell, Git, GitHub, GitBucket, VScode, Cursor, v0, Jupyter Notebook, Warp
 - *Speaking Languages:* English, Mandarin, Malay, Cantonese
