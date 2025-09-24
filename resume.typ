@@ -29,7 +29,7 @@
   institution: "Asia Pacific University of Technology and Innovation (APU)",
   location: "Bukit Jalil, Kuala Lumpur, MY",
   dates: dates-helper(start-date: "July 2023", end-date: "July 2025"),
-  degree: "Bachelor of ICT (Software Engineering)",
+  degree: "Higher Diploma of ICT (Software Engineering)",
 )
 - *Courses:* Operating System, Computer Architecture, Database Management, Professional Communication, Artificial Intelligence Workflows, Python Programming, Data Struture and Algorithms C++, Algebra and Calculus, UI/UX Design, SDLC, Agile Scrum, System Analysis and Design, Responsive Web Design and Development, Object Oriented Programming Java, DevOps and Lowcode/Nocode Development, Networking Technologies, CyberSec and Forensics.
 
@@ -77,12 +77,12 @@
 == Projects
 
 #project(
-  name: "EVM Chat Agent",
-  role: "Full-Stack & LLM Developer",
-  dates: dates-helper(start-date: "Mar 2025", end-date: "Present"),
+  name: "JustMarketing",
+  role: "AWS SRE and Infrastructure Management",
+  dates: dates-helper(start-date: "Sep 2025", end-date: "Sep 2025"),
 )
-- Developed chat agent using Next.js, React Hooks, Deepseek API
-- Project link: https://github.com/AngJianming/EVM-chat-agent
+- Developed using Next.js, EC2, S3, RDS, Lambda, Beanstalk and TikTok API
+- Project link: https://github.com/AngJianming/justmarketing_aws_greataihack
 
 #project(
   name: "YOLO Facial Recognition Attendance",
