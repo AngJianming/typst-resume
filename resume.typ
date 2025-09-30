@@ -158,9 +158,9 @@
 - *Web:* React.js, Next.js, TailwindCSS, Angular, Laravel Octane, Flask, FastAPI, Express.js (RESTful API, GraphQL), Gin, Node.js, Three.js
 - *AI/ML:* TensorFlow.js, OpenCV, FastAPI, LangChain, Hugging Face, RAG, LLM, Deepseek-R-1, Gemini API, Vertex AI, Claude, Ollama, Databricks, MCP
 - *Mobile:* React Native (Expo), Flutter, Kotlin
-- *Databases:* MongoDB, Microsoft SQL Server, MySQL, PostgreSQL, Firebase
+- *Databases:* MongoDB, Microsoft SQL Server, MySQL, PostgreSQL, Firebase, S3, DynamoDB
 - *DevOps:* Docker, GitHub Actions, Jenkins
-- *Cloud & Hosting:* Vercel, GitHub Pages, Terraform, Azure
+- *Cloud & Hosting:* Vercel, GitHub Pages, Terraform, Azure, AWS EC2
 - *Data Analytics:* Tableau, MS Excel, Google Sheets, Google Data Studio, Metabase
 - *Web3:* Solidity, Move, Rust, Foundry, Hardhat, Anchor, zkSync, zkRollup, zkLogin
 - *CryptoChain:* Ethereum, Solana, Sui, Scroll, The Graph
